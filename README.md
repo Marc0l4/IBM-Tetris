@@ -6,20 +6,24 @@ Jogo estilo Tetris com estética dark/neon, desenvolvido em HTML, CSS e JavaScri
 
 ## 🚀 Como executar
 
-Abra diretamente no navegador (sem servidor necessário):
-
-```
-cyberpulse/index.html
-```
-
-Ou via terminal:
+Clone o repositório:
 
 ```bash
-# macOS / Linux
-open cyberpulse/index.html
+git clone https://github.com/Marc0l4/IBM-Tetris.git
+cd IBM-Tetris
+```
+
+Depois abra o `index.html` diretamente no navegador (sem servidor necessário):
+
+```bash
+# macOS
+open index.html
+
+# Linux
+xdg-open index.html
 
 # Windows
-start cyberpulse/index.html
+start index.html
 ```
 
 > ✅ Funciona com `file://` — zero dependências externas.
